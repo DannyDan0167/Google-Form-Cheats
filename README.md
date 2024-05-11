@@ -1,2 +1,1 @@
-# Google-Form-Cheats
-This script tries to extract answer conditions from Google Forms and solve them.
+Made by zerodytrash on https://github.com/zerodytrash/Google-Forms-Quiz-Solver/
